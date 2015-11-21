@@ -1,0 +1,10 @@
+name: Hub
+version: 1.0
+main: com.halmerson.Hub
+description: Hub Plugin
+depend: [LibsDisguises]
+commands:
+  killall:
+    description: Kills all
+  g:
+    description: Adds money to players account
